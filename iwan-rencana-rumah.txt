@@ -7,5 +7,6 @@ Rencana Rumah
 *pakai baja ringan
 * pakai spandek
 * tanpa las
+*pakai baut
 - Bikin Canopy
 - Pasang torn air

@@ -1,0 +1,4 @@
+Resolusi tahun ini :
+- belajar git
+- belajar odoo
+- renovasi dapur

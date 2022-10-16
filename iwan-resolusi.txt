@@ -1,5 +1,5 @@
 Resolusi tahun ini :
 - belajar git
 - belajar odoo
-- renovasi dapur
 - renovasi halaman rumah
+- pindah rumah
